@@ -1,0 +1,95 @@
+Bibliography
+Giving and Volunteering [United States]
+
+This bibliography includes published and unpublished works that are related 
+to ICPSR study 35584. It includes works that are based on primary
+or secondary analysis of the data, or which describe or critique those
+data or the collection methodology. 
+
+If you publish a work or know of other works that are based on these data,
+please send the complete citation and name of the ICPSR study used to:
+icpsr-biblio-notify@umich.edu 
+
+
+1. Dingle, Alan, "Measuring Volunteering: A Practical Toolkit." Washington,
+DC: Independent Sector, 2001.
+Full text PDF: http://www.worldvolunteerweb.org/fileadmin/docs/old/pdf/2001/01_02_15USA_Vol_Toolkit.PDF
+
+2. Hodgkinson, Virginia Ann; Weitzman, Murray S., "Giving and Volunteering
+in the United States: Findings from a National Survey, 1988 Edition."
+Washington, DC: Independent Sector, 1988.
+Full text PDF: http://www.heart-resources.org/wp-content/uploads/2015/10/Giving-and-Volunteering-in-the-United-States.pdf
+
+3. Hodgkinson, Virginia Ann; Weitzman, Murray S., "Giving and Volunteering
+in the United States: Findings from a National Survey, 1990 Edition."
+Washington, DC: Independent Sector, 1990.
+Abstract: http://indiamond6.ulib.iupui.edu/cdm/ref/collection/PRO/id/16887
+
+4. Hodgkinson, Virginia Ann; Weitzman, Murray S., "Giving and Volunteering
+in the United States: Findings from a National Survey, 1992 Edition."
+Washington, DC: Independent Sector, 1992.
+Abstract: http://indiamond6.ulib.iupui.edu/cdm/ref/collection/PRO/id/17566
+
+5. Hodgkinson, Virginia Ann; Weitzman, Murray S., "Giving and Volunteering
+in the United States: Findings from a National Survey, 1996 Edition."
+Washington, DC: Independent Sector, 1996.
+Abstract: http://indiamond6.ulib.iupui.edu/cdm/ref/collection/PRO/id/17120
+
+6. Hodgkinson, Virginia Ann; Weitzman, Murray S., "Giving and volunteering
+in the United States: Findings from a National Survey, 1994 Edition."
+Washington, DC: Independent Sector, 1994.
+Abstract: http://indiamond6.ulib.iupui.edu/cdm/ref/collection/PRO/id/16338
+
+7. Jalandoni, Nadine; Hume, Keith, "America's Family Volunteers."
+Washington, DC: Independent Sector, 2001.
+Full text PDF: http://www.cpanda.org/data/a00244/family.pdf
+
+8. Kirsh, Arthur D.; Hume, Keith M.; Jalnodoni, Nadine T., "Giving and
+Volunteering in the United States: Findings from a National Survey, 1999
+Edition." Washington, DC: Independent Sector, 1999.
+Abstract: http://indiamond6.ulib.iupui.edu/cdm/ref/collection/PRO/id/16578
+
+9. Saxon-Harrold, Susan K.E.; Wiener, Susan J.; McCormack, Michael T.;
+Weber, Michelle A., "America's Religious Congregations: Measuring Their
+Contribution to Society." Washington, DC: Independent Sector, Nov 2000.
+Full text PDF: http://www.cpanda.org/data/a00244/congregations.pdf
+
+10. Saxon-Harrold, Susan; McCormack, Michael; Hume, Keith, "America's
+Senior Volunteers." Washington, DC: Independent Sector, Jun 2000.
+Full text PDF: http://www.cpanda.org/data/a00244/seniors.pdf
+
+11. Toppe, Christopher, "Giving and Volunteering 2001 Distribution SAS
+Dataset." Washington, DC: Independent Sector, 2003.
+Full text PDF: http://www.cpanda.org/data/a00245/gv01technical.pdf
+
+12. Toppe, Christopher M.; Kirsch, Arthur D.; Michel, Jocabel, "Giving and
+Volunteering in the United States: Findings from a National Survey, 2001
+Edition." Washington, DC: Independent Sector, 2002.
+Full text PDF: http://www.cpanda.org/pdfs/gv/GV01Report.pdf
+
+13. Toppe, Christopher; Adler, Kimberly A.; Kirsch, Arthur D.; Green,
+Gordon W.; Michel, Jocabel, "Experience at Work: Volunteering and Giving
+Among Americans 50 and Over." Washington, DC: Independent Sector, 2003.
+Full text PDF: http://www.independentsector.org/uploads/Resources/Experience_at_Work.pdf
+
+14. Toppe, Christopher; Golombek, Silvia; Kirsch, Arthur D.; Michel,
+Jocabel; Weber, Michelle A., "Engaging Youth in Lifelong Service: Findings
+and Recommendations for Encouraging a Tradition of Voluntary Action Among
+America's Youth." Washington, DC: Independent Sector, 2002.
+Full text PDF: http://www.independentsector.org/uploads/Resources/engaging_youth.pdf
+
+15. Toppe, Christopher; Kirsch, Arthur D.; Michel, Jocabel, "Giving in
+Tough Times: The Impact of Personal Economic Concerns on Giving and
+Volunteering." Washington, DC: Independent Sector, 2003.
+Full text PDF: http://www.independentsector.org/uploads/Resources/toughtimes.pdf
+
+16. Toppe, Christopher; Kirsch, Arthur D.; Michel, Jocabel; Green, Gordon
+W., "Deducting Generosity: The Effect of Charitable Tax Incentives on
+Giving." Washington, DC: Independent Sector, 2003.
+Full text PDF: http://www.independentsector.org/uploads/Resources/deducting_generosity.pdf
+
+17. Toppe, Christopher; Kirsch, Arthur D.; Michel, Jocobel; Wiener, Susan
+J.; Jalandoni, Nadine T., "Faith and Philanthropy: The Connection Between
+Charitable Behavior and Giving to Religion." Washington, DC: Independent
+Sector, 2002.
+Full text PDF: http://www.independentsector.org/uploads/Resources/faith_and_philanthropy.pdf

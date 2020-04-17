@@ -1,0 +1,234 @@
+File Manifest for ICPSR 35584
+
+Independent Sector. Giving and Volunteering [United States]. ICPSR35584-v1.
+Ann Arbor, MI: Inter-university Consortium for Political and Social
+Research [distributor], 2016-01-28. http://doi.org/10.3886/ICPSR35584.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    35584-descriptioncitation.pdf       -       -         -       2016-11-18  -
+
+    35584-related_literature.txt        -       -         -       daily       -
+
+    35584-manifest.txt                  -       -         -       daily       -
+
+    35584-Report.pdf                    -       -         -       2016-01-28  52939b03e1845958dfcc54730dfea368
+
+    35584-User_guide.pdf                -       -         -       2016-01-28  838833196b7f5e9b1f8274800ce7f00e
+
+
+DS0001 Giving and Volunteering in the United States 1988
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    35584-0001-Codebook.pdf             -       -         -       2016-01-28  c06057c2e2771d69d2ee763273536405
+
+    35584-0001-Data.dta                 -       2,775     772     2016-01-28  bc0067bbb2ea440a464304f1f7aa7bae
+
+    35584-0001-Data.rda                 -       2,775     772     2016-01-28  5e79849d1e6d18ec430ac1fa3fb8c888
+
+    35584-0001-Data.sav                 -       2,775     772     2016-01-28  3209670a20e3f73d260c490d64a0fbaf
+
+    35584-0001-Data.stc                 -       2,775     772     2016-01-28  ed86d3d32e93da5b1ea6f88bbfaf647d
+
+    35584-0001-Data.tsv                 -       2,775     772     2016-01-28  16110fe9fae1970ad4e910ddfb5cd6f9
+
+    35584-0001-Data.txt                 941     2,775     772     2016-01-28  ffc60b37cddf727b3fc471124629b735
+
+    35584-0001-Data.xlsx                -       2,775     772     2016-01-28  b23047c2ccc9fa422fe265348b494deb
+
+    35584-0001-Setup.dct                -       -         -       2016-01-28  bac831be1b33716c236220be164580dc
+
+    35584-0001-Setup.do                 -       -         -       2016-01-28  471082a63fc4a9a38cd52ea7e212464d
+
+    35584-0001-Setup.sas                -       -         -       2016-01-28  f1a7d7dd348fdca935c779cf6c20146a
+
+    35584-0001-Setup.sps                -       -         -       2016-01-28  55f5b199bf0e7152449fba9d9927cc1f
+
+
+DS0002 Giving and Volunteering in the United States 1990
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    35584-0002-Codebook.pdf             -       -         -       2016-01-28  624ef74b9db640b7356cf3b034169613
+
+    35584-0002-Data.dta                 -       2,727     789     2016-01-28  8f72fdd75b684f6ce003941e02b7cd85
+
+    35584-0002-Data.rda                 -       2,727     789     2016-01-28  9a5a623a4fc0700b62d4b0a65b5c8b08
+
+    35584-0002-Data.sav                 -       2,727     789     2016-01-28  a62208cabe4e0dd7ff0e0a90be24d6e8
+
+    35584-0002-Data.stc                 -       2,727     789     2016-01-28  0681ae3118b7cf65fa8e18ca5c732735
+
+    35584-0002-Data.tsv                 -       2,727     789     2016-01-28  436c3e43d0740d6e1a71b60b75473e28
+
+    35584-0002-Data.txt                 1099    2,727     789     2016-01-28  b5758f5fde0898a08de6145705314ba2
+
+    35584-0002-Data.xlsx                -       2,727     789     2016-01-28  32daac698c330c22d3fb0f9ff0bb955d
+
+    35584-0002-Setup.dct                -       -         -       2016-01-28  41f15e68302d8d48af49f270c681b53f
+
+    35584-0002-Setup.do                 -       -         -       2016-01-28  56cafadef0234bad1c7fcf416e358531
+
+    35584-0002-Setup.sas                -       -         -       2016-01-28  6850b376f79b33222033b2fc0c74c43d
+
+    35584-0002-Setup.sps                -       -         -       2016-01-28  40c7a2279e0e83b92f1454fa3eff79be
+
+
+DS0003 Giving and Volunteering in the United States 1992
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    35584-0003-Codebook.pdf             -       -         -       2016-01-28  cd7669887a69001be102b47cf0f4fed4
+
+    35584-0003-Data.dta                 -       2,671     765     2016-01-28  f0958ec4feb6984af4932f1a8d735840
+
+    35584-0003-Data.rda                 -       2,671     765     2016-01-28  980557a4ec382d44a7567d15e861b83c
+
+    35584-0003-Data.sav                 -       2,671     765     2016-01-28  2712dc3b6eb5269a7ef1ff07d30dde89
+
+    35584-0003-Data.stc                 -       2,671     765     2016-01-28  f6ea9625e3d41dbfa542dc3e9f394fb6
+
+    35584-0003-Data.tsv                 -       2,671     765     2016-01-28  1ed79bfb5dc114fef26c98c481def194
+
+    35584-0003-Data.txt                 1078    2,671     765     2016-01-28  4b693409d932e66ec506317aa23affbf
+
+    35584-0003-Data.xlsx                -       2,671     765     2016-01-28  148be9b77e7f220ac27d1bd9eb076410
+
+    35584-0003-Setup.dct                -       -         -       2016-01-28  0ad9da92d17ea88a860d146689a1dad1
+
+    35584-0003-Setup.do                 -       -         -       2016-01-28  32326c18ade70ae4be057280c9a53b60
+
+    35584-0003-Setup.sas                -       -         -       2016-01-28  de36bf8698ed1a1bc88d7ddf1fbbe722
+
+    35584-0003-Setup.sps                -       -         -       2016-01-28  8e1ed77cec1b1d627de5b38109f0f683
+
+
+DS0004 Giving and Volunteering in the United States 1994
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    35584-0004-Codebook.pdf             -       -         -       2016-01-28  e493d05b96616a13cf0634f77650b67b
+
+    35584-0004-Data.dta                 -       1,509     490     2016-01-28  ee92b1947e29821dc8eb28acb084b623
+
+    35584-0004-Data.rda                 -       1,509     490     2016-01-28  8995597c911ffb4720dc76a86899af7f
+
+    35584-0004-Data.sav                 -       1,509     490     2016-01-28  bc875b45bef648cb43485785f68b1a96
+
+    35584-0004-Data.stc                 -       1,509     490     2016-01-28  ca063fbec5d28c0a6ccba78fc8a4c24d
+
+    35584-0004-Data.tsv                 -       1,509     490     2016-01-28  3d8e09e02a6c194ee9edbe2b2747b610
+
+    35584-0004-Data.txt                 741     1,509     490     2016-01-28  a6a108732f67d7272ff1ce723c9ec329
+
+    35584-0004-Data.xlsx                -       1,509     490     2016-01-28  ca223985537c1a5509a75de704e66e7c
+
+    35584-0004-Setup.dct                -       -         -       2016-01-28  244e8c19160fe15634ce7876394f07ca
+
+    35584-0004-Setup.do                 -       -         -       2016-01-28  3f9fc9cc31e18ce2fdfb029a090aa2c4
+
+    35584-0004-Setup.sas                -       -         -       2016-01-28  432780b0df7589a733f24397962249e1
+
+    35584-0004-Setup.sps                -       -         -       2016-01-28  043a848a404ea12665d9f03d337f5eef
+
+
+DS0005 Giving and Volunteering in the United States 1996
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    35584-0005-Codebook.pdf             -       -         -       2016-01-28  c21904be0f75405fbfd93d2b30e0e9a4
+
+    35584-0005-Data.dta                 -       2,719     570     2016-01-28  23303c32d797a95dd1e264055fb3603a
+
+    35584-0005-Data.rda                 -       2,719     570     2016-01-28  6881abf6de5c9cd219864fea274f05bc
+
+    35584-0005-Data.sav                 -       2,719     570     2016-01-28  6270f3b08282682511a49de4b455acfb
+
+    35584-0005-Data.stc                 -       2,719     570     2016-01-28  92d6f98eb27209d048de04d2f0672188
+
+    35584-0005-Data.tsv                 -       2,719     570     2016-01-28  babfd192b565bb40a22470660b68921d
+
+    35584-0005-Data.txt                 828     2,719     570     2016-01-28  c79b34d9098aa2c996ecac2f2bf27019
+
+    35584-0005-Data.xlsx                -       2,719     570     2016-01-28  80a5a1c6da59214ed3c5b85605a828e2
+
+    35584-0005-Setup.dct                -       -         -       2016-01-28  fca93941458796acb355393063a04e6f
+
+    35584-0005-Setup.do                 -       -         -       2016-01-28  530838bce3f1aa34a6f91d8972c069c8
+
+    35584-0005-Setup.sas                -       -         -       2016-01-28  b87d36ce3588bb714cd2eeff613ab2c7
+
+    35584-0005-Setup.sps                -       -         -       2016-01-28  710c02b6d0a669ac6d34aad2138da3e8
+
+
+DS0006 Giving and Volunteering in the United States 1999
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    35584-0006-Codebook.pdf             -       -         -       2016-01-28  3ecfeb00506d6e7c156d4b9cc83e0cf3
+
+    35584-0006-Data.dta                 -       2,553     439     2016-01-28  1b61d1e364f1e2923048589cb6039cd1
+
+    35584-0006-Data.rda                 -       2,553     439     2016-01-28  09e689bdc014f2f87c06a99166db8d58
+
+    35584-0006-Data.sav                 -       2,553     439     2016-01-28  f9331655c923931a1eb8afbb9cf517da
+
+    35584-0006-Data.stc                 -       2,553     439     2016-01-28  3e0731bce222fc6fde279b93ec3ca8a3
+
+    35584-0006-Data.tsv                 -       2,553     439     2016-01-28  3b30bfe9815f895362cbc92af6c53705
+
+    35584-0006-Data.txt                 597     2,553     439     2016-01-28  efa601137b08a0f196e2a889db826989
+
+    35584-0006-Data.xlsx                -       2,553     439     2016-01-28  28b5d6858ba9dda0fe7c4df5c4b87dc4
+
+    35584-0006-Setup.dct                -       -         -       2016-01-28  d9fe8e357aea2e14525bb401cfcdfbea
+
+    35584-0006-Setup.do                 -       -         -       2016-01-28  1fc6aa61166cc8402ded41883076c2b8
+
+    35584-0006-Setup.sas                -       -         -       2016-01-28  ea10dcdd5ada26359f92cfae1137697a
+
+    35584-0006-Setup.sps                -       -         -       2016-01-28  05f848ab63926ed05566ff879084125b
+
+
+DS0007 Giving and Volunteering in the United States 2001
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    35584-0007-Codebook.pdf             -       -         -       2016-01-28  064c5e8eabc14f27da83f89c2125cfe2
+
+    35584-0007-Data.dta                 -       4,178     604     2016-01-28  503f58a76b833182540aeb6d6d9ec312
+
+    35584-0007-Data.rda                 -       4,178     604     2016-01-28  55e12e9e23c536cf41eae180624ffc22
+
+    35584-0007-Data.sav                 -       4,178     604     2016-01-28  177bc00bbe77e33a2e3b2e4f73d1f87f
+
+    35584-0007-Data.stc                 -       4,178     604     2016-01-28  c6064601ffea9ed2669e6da725bdbd7b
+
+    35584-0007-Data.tsv                 -       4,178     604     2016-01-28  6f59c75c01ebe3335aaff79ea8eba1e8
+
+    35584-0007-Data.txt                 2260    4,178     604     2016-01-28  7b5070a978f37207efda8ed166acfc6c
+
+    35584-0007-Data.xlsx                -       4,178     604     2016-01-28  0f94ad0042058d695fa71fcfb8a11c40
+
+    35584-0007-Questionnaire.pdf        -       -         -       2016-01-28  ca6bca6a009687c0ceec7e17d5229981
+
+    35584-0007-Setup.dct                -       -         -       2016-01-28  f1a7cecfe0acb58df984c5150476207e
+
+    35584-0007-Setup.do                 -       -         -       2016-01-28  121b1322f0171ccd4bd0a97524d11999
+
+    35584-0007-Setup.sas                -       -         -       2016-01-28  e82ade0263763b01251b45e0e536761a
+
+    35584-0007-Setup.sps                -       -         -       2016-01-28  93a84fd0a7607f0956ae5c1b7d019768
+
